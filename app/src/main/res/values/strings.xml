@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Тайм Менеджер</string>
+
+    <string name="today_tasks">Задачи на сегодня</string>
+    <string name="tasks">Задачи</string>
+    <string name="calendar">Календарь</string>
+    <string name="statistics">Статистика</string>
+
+    <string name="add">Добавить</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="complete">Завершить</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="no_date">Входящие</string>
+    <string name="choose_day">Выбрать дату</string>
+
+    <string name="picker_dialog_title">Затраченное на задачу время</string>
+    <string name="ok">Завершить задачу</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="statistics_title">Процент выполненных задач</string>
+    <string name="statistics_text">C %1$s по %2$s у вас было %3$d задач.\nИз них выполнено %4$d задач.\nНа на них потрачено %5$d часов %6$d минут.</string>
+    <string name="statistics_start">Начало интервала:\n%1$s</string>
+    <string name="statistics_end">Конец интервала:\n%1$s</string>
+    <string name="search">Поиск</string>
+</resources>
